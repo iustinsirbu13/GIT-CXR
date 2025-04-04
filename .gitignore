@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Extras
+checkpoints/
+.ipynb_checkpoints/
+__pycache__
+CheXbert/src/slurm-*
+code/slurm-*
+slurm-*
+MIMIC_Checkpoints/

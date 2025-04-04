@@ -1,0 +1,28 @@
+torch>=2.0.0
+
+# TODO: double check and remove unused
+evaluate
+rouge_score
+transformers
+torchvision
+scikit-learn
+jsonlines
+tensorboard
+tqdm
+numpy
+pytorch-pretrained-bert
+matplotlib
+opencv-python
+pandas
+nltk
+rouge-score
+
+# For LoRA, optional
+accelerate
+bitsandbytes
+datasets
+peft
+tokenizers
+trl
+sentencepiece
+protobuf
