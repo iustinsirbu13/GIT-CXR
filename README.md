@@ -3,6 +3,7 @@ GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation
 
 This repository contains the code used for training the models described in [GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation](https://arxiv.org/pdf/2501.02598).
 
+Model checkpoints are available on [HuggingFace](https://huggingface.co/iustinsirbu).
 
 ## Data Preparation
 
